@@ -1,0 +1,2 @@
+# ejercicios
+learn new comands
